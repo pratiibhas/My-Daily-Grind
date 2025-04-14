@@ -14,12 +14,12 @@ Each solution includes:
 ## 📁 Folder Structure
 
 .
-├── 01_Build up logic
-│   ├── 01_Patterns.py
-│   └── 02_Pass_by_refernce.py
-├── 02_Basic_maths
-│   └── 01_Palindrome_Check.py
-└── README.md
+- ├── 01_Build up logic
+- │   ├── 01_Patterns.py
+- │   └── 02_Pass_by_refernce.py
+- ├── 02_Basic_maths
+- │   └── 01_Palindrome_Check.py
+- └── README.md
 
 ## 🙌 Credits
 - Striver's A2Z DSA Sheet: [YouTube Playlist]([[https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz))
