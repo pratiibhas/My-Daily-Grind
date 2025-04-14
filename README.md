@@ -15,10 +15,10 @@ Each solution includes:
 
 .
 - ├── 01_Build up logic
-- │   ├── 01_Patterns.py
-- │   └── 02_Pass_by_refernce.py
+-    ├── 01_Patterns.py
+-    └── 02_Pass_by_refernce.py
 - ├── 02_Basic_maths
-- │   └── 01_Palindrome_Check.py
+-    └── 01_Palindrome_Check.py
 - └── README.md
 
 ## 🙌 Credits
